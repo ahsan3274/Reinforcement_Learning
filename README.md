@@ -1,2 +1,2 @@
-# reinforcementlearning
+# ReinforcementLearning
 Reinforcment Learning Assignments
